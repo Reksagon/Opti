@@ -6,6 +6,7 @@
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2005" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/bttn.xml" value="0.2005" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_attractive_beautiful_beauty_415829.xml" value="0.2015" />
+        <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_bx_credit_card.xml" value="0.2005" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_group.xml" value="0.2015" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_group_15.xml" value="0.2015" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_group_8.xml" value="0.2015" />
@@ -13,6 +14,7 @@
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2015" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2015" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_rectangle_2.xml" value="0.2015" />
+        <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/drawable/ic_vector.xml" value="0.2005" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/activity_main.xml" value="0.22735507246376813" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/app_bar_main.xml" value="0.22735507246376813" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/content_main.xml" value="0.22735507246376813" />
@@ -20,8 +22,9 @@
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/fragment_gallery.xml" value="0.536" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/fragment_home.xml" value="0.22735507246376813" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/fragment_maps.xml" value="0.22735507246376813" />
-        <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/fragment_slideshow.xml" value="0.536" />
+        <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/fragment_slideshow.xml" value="0.4" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/nav_header_main.xml" value="0.22735507246376813" />
+        <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/layout/wallet_item.xml" value="0.4" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Denys/AndroidStudioProjects/Opti/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
       </map>
